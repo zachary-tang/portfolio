@@ -1,6 +1,6 @@
 # Data Analytics Projects
 
-### List of projects 
+### Time Series
 
 - #### **[Forecasting Household Electricity Consumption in Singapore with SARIMA](forecasting_household_electricity_SARIMA.ipynb)**
   - **Description:** Fitting a SARIMA model to forecast monthly household electricity consumption in Singapore
