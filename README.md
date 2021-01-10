@@ -14,11 +14,13 @@ This portfolio is a compilation of projects which I created for data analysis. A
 - #### **[Propertyguru Webscraper](webscrapers/webscraper_propertyguru_sg.ipynb)**
   - **Description:** Scrapes property listing data off propertyguru's main page
   - **Date Uploaded:** 10/01/2021
+  - **Output:**
   - **Data Source:** [propertyguru.sg](https://www.propertyguru.com.sg)
   
 - #### **[Shopee SKU Webscraper](webscrapers/webscraper_shopee_sku_review.ipynb)**
   - **Description:** Scrapes reviews off a certain listing in Shopee
   - **Date Uploaded:** 10/01/2021
+  - **Output:** date, username, comment, variation
   - **Data Source:** [shopee.sg](https://www.shopee.sg)
   
 ## Contact Me
