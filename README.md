@@ -23,7 +23,7 @@ This portfolio is a compilation of projects which I created for data analysis. A
   - **Output:** date, username, comment, variation
   - **Data Source:** [shopee.sg](https://www.shopee.sg)
   
-## Contact Me
+## Contact Information
 
 - [Email](mailto:zacharytangjiaying@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/zacharytang/)
