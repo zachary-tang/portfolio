@@ -2,7 +2,7 @@
 
 This portfolio is a compilation of projects which I created for data analysis. All of the projects are written in Python.
 
-## Time Series
+## Time Series Analysis
 
 - #### **Forecasting Household Electricity Consumption in Singapore with SARIMA**
   - **Link:** [Github](timeseries/forecasting_household_electricity_SARIMA.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/timeseries/forecasting_household_electricity_SARIMA.ipynb)
