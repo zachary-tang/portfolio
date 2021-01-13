@@ -16,14 +16,24 @@ This portfolio is a compilation of projects which I created for data analysis. A
   - **Link:** [Github](webscrapers/webscraper_propertyguru_sg.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/webscrapers/webscraper_propertyguru_sg.ipynb)
   - **Description:** Scrapes property listing data off propertyguru's main page
   - **Date Uploaded:** 10/01/2021
-  - **Output:**
+  - **Scrape Variables:**
+  - **Output:** .csv
   - **Data Source:** [propertyguru.sg](https://www.propertyguru.com.sg)
   
-- #### **Shopee SKU Reviews Webscraper**
-  - **Link:** [Github](webscrapers/webscraper_shopee_SKU.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/webscrapers/webscraper_propertyguru_sg.ipynb)
+- #### **Shopee Search and Reviews Webscraper**
+  - **Link:** [Github](webscrapers/webscraper_shopee_search_and_reviews.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/webscrapers/webscraper_shopee_search_and_reviews.ipynb)
+  - **Description:** Scrapes reviews off a certain listing in Shopee
+  - **Date Uploaded:** 13/01/2021
+  - **Scrape Variables:** ``product_name``, ``urls``, ``prices_lowest``, ``prices_highest``, ``discounts``, ``sold_per_month``, ``preferred``, ``country_ship``, ``ad``, ``num_sold``, ``num_ratings``, ``num_fav``, ``num_stock``, ``seller_name``, ``seller_url``, ``seller_products``, ``seller_ratings``, ``seller_response``, ``seller_response_time``, ``seller_joined``, ``seller_follower``, ``product_cat``, ``product_desc``, ``date``, ``username``, ``comment``, ``variation``
+  - **Output:** .csv
+  - **Data Source:** [shopee.sg](https://www.shopee.sg)
+  
+- #### **Shopee Reviews Webscraper**
+  - **Link:** [Github](webscrapers/webscraper_shopee_reviews.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/webscrapers/webscraper_shopee_reviews.ipynb)
   - **Description:** Scrapes reviews off a certain listing in Shopee
   - **Date Uploaded:** 10/01/2021
-  - **Output:** ``date``, ``username``, ``comment``, ``variation``
+  - **Scrape Variables:** ``date``, ``username``, ``comment``, ``variation``
+  - **Output:** .csv
   - **Data Source:** [shopee.sg](https://www.shopee.sg)
   
 ## Contact Information
