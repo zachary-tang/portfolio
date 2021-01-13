@@ -20,7 +20,7 @@ This portfolio is a compilation of projects which I created for data analysis. A
   - **Data Source:** [propertyguru.sg](https://www.propertyguru.com.sg)
   
 - #### **Shopee SKU Reviews Webscraper**
-- **Link:** [Github](webscrapers/webscraper_shopee_SKU.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/webscrapers/webscraper_propertyguru_sg.ipynb)
+  - **Link:** [Github](webscrapers/webscraper_shopee_SKU.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/webscrapers/webscraper_propertyguru_sg.ipynb)
   - **Description:** Scrapes reviews off a certain listing in Shopee
   - **Date Uploaded:** 10/01/2021
   - **Output:** ``date``, ``username``, ``comment``, ``variation``
