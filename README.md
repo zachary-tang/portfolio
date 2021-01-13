@@ -22,7 +22,7 @@ This portfolio is a compilation of projects which I created for data analysis. A
   
 - #### **Shopee Search and Reviews Webscraper**
   - **Link:** [Github](webscrapers/webscraper_shopee_search_and_reviews.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/webscrapers/webscraper_shopee_search_and_reviews.ipynb)
-  - **Description:** Scrapes reviews off a certain listing in Shopee
+  - **Description:** Scrapes the search results of a user specified search term in Shopee. Optional: loop through each listing in search results to pull additional information about the seller, the product and customer reviews.
   - **Date Uploaded:** 13/01/2021
   - **Scrape Variables:** ``product_name``, ``urls``, ``prices_lowest``, ``prices_highest``, ``discounts``, ``sold_per_month``, ``preferred``, ``country_ship``, ``ad``, ``num_sold``, ``num_ratings``, ``num_fav``, ``num_stock``, ``seller_name``, ``seller_url``, ``seller_products``, ``seller_ratings``, ``seller_response``, ``seller_response_time``, ``seller_joined``, ``seller_follower``, ``product_cat``, ``product_desc``, ``date``, ``username``, ``comment``, ``variation``
   - **Output:** .csv
