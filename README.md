@@ -28,14 +28,6 @@ This portfolio is a compilation of projects which I created for data analysis. A
   - **Output:** .csv
   - **Data Source:** [shopee.sg](https://www.shopee.sg)
   
-- #### **Propertyguru Webscraper**
-  - **Link:** [Github](webscrapers/webscraper_propertyguru_sg.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/webscrapers/webscraper_propertyguru_sg.ipynb)
-  - **Description:** Scrapes property listing data off propertyguru's main page
-  - **Date Uploaded:** 10/01/2021
-  - **Scrape Variables:**
-  - **Output:** .csv
-  - **Data Source:** [propertyguru.sg](https://www.propertyguru.com.sg)
-  
 ## Contact Information
 
 - [Email](mailto:zacharytangjiaying@gmail.com)
