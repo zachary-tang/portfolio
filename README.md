@@ -2,13 +2,22 @@
 
 This portfolio is a compilation of projects which I created for data analysis. All of the projects are written in Python.
 
+## Machine Learning
+
+- #### **Applied Machine Learning on Public Real Estate in Singapore**
+  - **Link:** [Github](timeseries/forecasting_household_electricity_SARIMA.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/timeseries/forecasting_household_electricity_SARIMA.ipynb)
+  - **Description:** Training and comparing several Machine Learning methods to predict HDB prices. Evaluate housing purchase decisions through feature importance
+  - **Date Uploaded:** 29/01/2021
+  - **Data Source:** [Total Household Electricity Consumption by Dwelling Type](https://data.gov.sg/dataset/total-household-electricity-consumption-by-dwelling-type)
+
 ## Time Series Analysis
 
 - #### **Forecasting Household Electricity Consumption in Singapore with SARIMA**
   - **Link:** [Github](timeseries/forecasting_household_electricity_SARIMA.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/timeseries/forecasting_household_electricity_SARIMA.ipynb)
   - **Description:** Fitting a SARIMA model to forecast monthly household electricity consumption in Singapore
   - **Date Uploaded:** 10/01/2021
-  - **Data Source:** [Total Household Electricity Consumption by Dwelling Type](https://data.gov.sg/dataset/total-household-electricity-consumption-by-dwelling-type)
+  - **Data Sources:** 
+    - [Resale Flat Prices](https://data.gov.sg/dataset/resale-flat-prices)
 
 ## Webscrapers
   
