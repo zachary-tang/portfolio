@@ -8,7 +8,10 @@ This portfolio is a compilation of projects which I created for data analysis. A
   - **Link:** [Github](timeseries/forecasting_household_electricity_SARIMA.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/timeseries/forecasting_household_electricity_SARIMA.ipynb)
   - **Description:** Training and comparing several Machine Learning methods to predict HDB prices. Evaluate housing purchase decisions through feature importance
   - **Date Uploaded:** 29/01/2021
-  - **Data Source:** [Total Household Electricity Consumption by Dwelling Type](https://data.gov.sg/dataset/total-household-electricity-consumption-by-dwelling-type)
+  - **Data Sources:**
+    - [Resale Flat Prices](https://data.gov.sg/dataset/resale-flat-prices)
+    - [OneMap API](https://docs.onemap.sg)
+    - Various Amenity Datasets from Gov.data.sg
 
 ## Time Series Analysis
 
@@ -16,8 +19,7 @@ This portfolio is a compilation of projects which I created for data analysis. A
   - **Link:** [Github](timeseries/forecasting_household_electricity_SARIMA.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/timeseries/forecasting_household_electricity_SARIMA.ipynb)
   - **Description:** Fitting a SARIMA model to forecast monthly household electricity consumption in Singapore
   - **Date Uploaded:** 10/01/2021
-  - **Data Sources:** 
-    - [Resale Flat Prices](https://data.gov.sg/dataset/resale-flat-prices)
+  - **Data Source:** [Total Household Electricity Consumption by Dwelling Type](https://data.gov.sg/dataset/total-household-electricity-consumption-by-dwelling-type)
 
 ## Webscrapers
   
