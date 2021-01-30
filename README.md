@@ -6,12 +6,13 @@ This portfolio is a compilation of projects which I created for data analysis. A
 
 - #### **Applied Machine Learning on Public Real Estate in Singapore**
   - **Link:** [Github](timeseries/forecasting_household_electricity_SARIMA.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/timeseries/forecasting_household_electricity_SARIMA.ipynb)
-  - **Description:** Training and comparing several Machine Learning methods to predict HDB prices. Evaluate housing purchase decisions through feature importance
+  - **Description:** Training and comparing several Machine Learning methods to predict HDB prices. Evaluate the price premium effect of certain features.
   - **Date Uploaded:** 29/01/2021
   - **Data Sources:**
-    - [Resale Flat Prices](https://data.gov.sg/dataset/resale-flat-prices)
-    - [OneMap API](https://docs.onemap.sg)
-    - Various Amenity Datasets from Gov.data.sg
+    - Gov Data: [Resale Flat Prices](https://data.gov.sg/dataset/resale-flat-prices), 
+    - APIs: [OneMap API](https://docs.onemap.sg), [LTA DataMall](https://datamall.lta.gov.sg/content/datamall/en.html)
+    - Healthhub: [List of Facilities](https://www.healthhub.sg/directory/clinics-and-polyclinics)
+    - Wikipedia: [List of MRT Stations](https://en.wikipedia.org/wiki/List_of_Singapore_MRT_stations), [List of Bus Stations](https://en.wikipedia.org/wiki/List_of_bus_stations_in_Singapore), [List of Shopping Centres](https://en.wikipedia.org/wiki/List_of_shopping_malls_in_Singapore), [List of Primary Schools](https://en.wikipedia.org/wiki/List_of_primary_schools_in_Singapore), [List of Secondary Schools](https://en.wikipedia.org/wiki/List_of_primary_schools_in_Singapore), [List of Junior Colleges](https://en.wikipedia.org/wiki/Category:Junior_colleges_in_Singapore)
 
 ## Time Series Analysis
 
