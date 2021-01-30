@@ -1,6 +1,6 @@
 # Data Analytics Projects
 
-This portfolio is a compilation of projects which I created for data analysis. All of the projects are written in Python.
+A portfolio of various projects I've worked on for fun! Written in Python. 
 
 ## Machine Learning
 
