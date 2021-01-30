@@ -6,7 +6,7 @@ This portfolio is a compilation of projects which I created for data analysis. A
 
 - #### **Applied Machine Learning on Public Real Estate in Singapore**
   - **Link:** [Github](timeseries/forecasting_household_electricity_SARIMA.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/timeseries/forecasting_household_electricity_SARIMA.ipynb)
-  - **Description:** Training and comparing several Machine Learning methods to predict HDB prices. Evaluate the price premium effect of certain features.
+  - **Description:** Trained and compared machine learning models to predict house prices. Examined the price premium effect of geographical features
   - **Date Uploaded:** 29/01/2021
   - **Data Sources:**
     - Gov Data: [Resale Flat Prices](https://data.gov.sg/dataset/resale-flat-prices), [Location of Parks](https://data.gov.sg/dataset/parks), [Location of Child Care Centres](https://data.gov.sg/dataset/listing-of-centres), [List of Community Clubs](https://data.gov.sg/dataset/community-clubs), [Location of Government Hawkers](https://data.gov.sg/dataset/list-of-government-markets-hawker-centres), [Location of NEA Licensed Food Stalls](https://data.gov.sg/dataset/list-of-nea-licensed-eating-establishments-with-grades-demerit-points-and-suspension-history), [Location of Supermarkets](https://data.gov.sg/dataset/listing-of-licensed-supermarkets)
@@ -18,7 +18,7 @@ This portfolio is a compilation of projects which I created for data analysis. A
 
 - #### **Forecasting Household Electricity Consumption in Singapore with SARIMA**
   - **Link:** [Github](timeseries/forecasting_household_electricity_SARIMA.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/timeseries/forecasting_household_electricity_SARIMA.ipynb)
-  - **Description:** Fitting a SARIMA model to forecast monthly household electricity consumption in Singapore
+  - **Description:** Fitted a SARIMA model to forecast monthly household electricity consumption in Singapore
   - **Date Uploaded:** 10/01/2021
   - **Data Source:** [Total Household Electricity Consumption by Dwelling Type](https://data.gov.sg/dataset/total-household-electricity-consumption-by-dwelling-type)
 
