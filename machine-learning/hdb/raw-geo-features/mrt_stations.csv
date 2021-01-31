@@ -1,0 +1,227 @@
+﻿in_op,future_op,mrt_loc,mrt_name,date_opened,other_connections
+1,1,Jurong East,Jurong East MRT,10-Mar-90,1
+1,0,Bukit Batok,Bukit Batok MRT,10-Mar-90,0
+1,0,Bukit Gombak,Bukit Gombak MRT,10-Mar-90,0
+0,1,Brickland,Brickland MRT,Mid-2030s,0
+1,1,Choa Chu Kang,Choa Chu Kang MRT,10-Mar-90,1
+1,0,Yew Tee,Yew Tee MRT,10-Feb-96,0
+0,1,Sungei Kadut,Sungei Kadut MRT,Mid-2030s,0
+1,0,Kranji,Kranji MRT,10-Feb-96,0
+1,0,Marsiling,Marsiling MRT,10-Feb-96,0
+1,0,Woodlands,Woodlands MRT,10-Feb-96,0
+1,0,Admiralty,Admiralty MRT,10-Feb-96,0
+1,0,Sembawang,Sembawang MRT,10-Feb-96,0
+1,0,Canberra,Canberra MRT,2-Nov-19,0
+1,0,Yishun,Yishun MRT,20-Dec-88,1
+1,0,Khatib,Khatib MRT,20-Dec-88,0
+1,0,Yio Chu Kang,Yio Chu Kang MRT,7-Nov-87,1
+1,1,Ang Mo Kio,Ang Mo Kio MRT,7-Nov-87,0
+1,0,Bishan,Bishan MRT,7-Nov-87,0
+1,0,Braddell,Braddell MRT,7-Nov-87,0
+1,0,Toa Payoh,Toa Payoh MRT,7-Nov-87,0
+1,0,Novena,Novena MRT,12-Dec-87,0
+1,0,Newton,Newton MRT,12-Dec-87,0
+1,1,Orchard,Orchard MRT,12-Dec-87,0
+1,0,Somerset,Somerset MRT,12-Dec-87,0
+1,0,Dhoby Ghaut,Dhoby Ghaut MRT,12-Dec-87,0
+1,0,City Hall,City Hall MRT,12-Dec-87,0
+1,0,Raffles Place,Raffles Place MRT,12-Dec-87,0
+1,1,Marina Bay,Marina Bay MRT,4-Nov-89,0
+1,0,Marina South Pier,Marina South Pier MRT,23-Nov-14,1
+1,1,Pasir Ris,Pasir Ris MRT,16-Dec-89,1
+1,0,Tampines,Tampines MRT,16-Dec-89,0
+1,0,Simei,Simei MRT,16-Dec-89,0
+1,1,Tanah Merah,Tanah Merah MRT,4-Nov-89,0
+1,0,Bedok,Bedok MRT,4-Nov-89,0
+1,0,Kembangan,Kembangan MRT,4-Nov-89,0
+1,0,Eunos,Eunos MRT,4-Nov-89,0
+1,0,Paya Lebar,Paya Lebar MRT,4-Nov-89,0
+1,0,Aljunied,Aljunied MRT,4-Nov-89,0
+1,0,Kallang,Kallang MRT,4-Nov-89,0
+1,0,Lavender,Lavender MRT,4-Nov-89,0
+1,0,Bugis,Bugis MRT,4-Nov-89,0
+1,0,City Hall,City Hall MRT,12-Dec-87,0
+1,0,Raffles Place,Raffles Place MRT,12-Dec-87,0
+1,0,Tanjong Pagar,Tanjong Pagar MRT,12-Dec-87,0
+1,1,Outram Park,Outram Park MRT,12-Dec-87,0
+1,0,Tiong Bahru,Tiong Bahru MRT,12-Mar-88,0
+1,0,Redhill,Redhill MRT,12-Mar-88,0
+1,0,Queenstown,Queenstown MRT,12-Mar-88,0
+1,0,Commonwealth,Commonwealth MRT,12-Mar-88,0
+1,0,Buona Vista,Buona Vista MRT,12-Mar-88,0
+1,0,Dover,Dover MRT,18-Oct-01,0
+1,0,Clementi,Clementi MRT,12-Mar-88,1
+1,1,Jurong East,Jurong East MRT,5-Nov-88,1
+1,0,Chinese Garden,Chinese Garden MRT,5-Nov-88,0
+1,0,Lakeside,Lakeside MRT,5-Nov-88,0
+1,1,Boon Lay,Boon Lay MRT,6-Jul-90,1
+1,0,Pioneer,Pioneer MRT,28-Feb-09,0
+1,0,Joo Koon,Joo Koon MRT,28-Feb-09,0
+1,0,Gul Circle,Gul Circle MRT,18-Jun-17,0
+1,0,Tuas Crescent,Tuas Crescent MRT,18-Jun-17,0
+1,0,Tuas West Road,Tuas West Road MRT,18-Jun-17,0
+1,0,Tuas Link,Tuas Link MRT,18-Jun-17,0
+1,1,Expo,Expo MRT,10-Jan-01,0
+1,1,Changi Airport,Changi Airport MRT,8-Feb-02,1
+1,0,HarbourFront,HarbourFront MRT,20-Jun-03,1
+1,1,Outram Park,Outram Park MRT,20-Jun-03,1
+1,0,Chinatown,Chinatown MRT,20-Jun-03,0
+1,0,Clarke Quay,Clarke Quay MRT,20-Jun-03,0
+1,0,Dhoby Ghaut,Dhoby Ghaut MRT,20-Jun-03,0
+1,0,Little India,Little India MRT,20-Jun-03,0
+1,0,Farrer Park,Farrer Park MRT,20-Jun-03,0
+1,0,Boon Keng,Boon Keng MRT,20-Jun-03,0
+1,0,Potong Pasir,Potong Pasir MRT,20-Jun-03,0
+1,0,Woodleigh,Woodleigh MRT,20-Jun-11,1
+1,0,Serangoon,Serangoon MRT,20-Jun-03,1
+1,0,Kovan,Kovan MRT,20-Jun-03,0
+1,1,Hougang,Hougang MRT,20-Jun-03,0
+1,0,Buangkok,Buangkok MRT,15-Jan-06,1
+1,0,Sengkang,Sengkang MRT,20-Jun-03,1
+1,1,Punggol,Punggol MRT,20-Jun-03,0
+0,1,Punggol Coast,Punggol Coast MRT,2024,1
+1,0,Dhoby Ghaut,Dhoby Ghaut MRT,17-Apr-10,0
+1,0,Bras Basah,Bras Basah MRT,17-Apr-10,0
+1,0,Esplanade,Esplanade MRT,17-Apr-10,0
+1,0,Promenade,Promenade MRT,17-Apr-10,0
+1,0,Nicoll Highway,Nicoll Highway MRT,17-Apr-10,0
+1,0,Stadium,Stadium MRT,17-Apr-10,0
+1,0,Mountbatten,Mountbatten MRT,17-Apr-10,0
+1,0,Dakota,Dakota MRT,17-Apr-10,0
+1,0,Paya Lebar,Paya Lebar MRT,17-Apr-10,0
+1,0,MacPherson,MacPherson MRT,17-Apr-10,0
+1,0,Tai Seng,Tai Seng MRT,17-Apr-10,0
+1,0,Bartley,Bartley MRT,28-May-09,0
+1,0,Serangoon,Serangoon MRT,28-May-09,0
+1,0,Lorong Chuan,Lorong Chuan MRT,28-May-09,0
+1,0,Bishan,Bishan MRT,28-May-09,0
+1,0,Marymount,Marymount MRT,28-May-09,0
+1,1,Caldecott,Caldecott MRT,8-Oct-11,0
+1,0,Botanic Gardens • Kebun Bunga,Botanic Gardens MRT,8-Oct-11,0
+1,0,Farrer Road,Farrer Road MRT,8-Oct-11,0
+1,0,Holland Village,Holland Village MRT,8-Oct-11,0
+1,0,Buona Vista,Buona Vista MRT,8-Oct-11,0
+1,0,one-north,one-north MRT,8-Oct-11,0
+1,0,Kent Ridge,Kent Ridge MRT,8-Oct-11,0
+1,0,Haw Par Villa,Haw Par Villa MRT,8-Oct-11,0
+1,0,Pasir Panjang,Pasir Panjang MRT,8-Oct-11,0
+1,0,Labrador Park,Labrador Park MRT,8-Oct-11,0
+1,0,Telok Blangah,Telok Blangah MRT,8-Oct-11,0
+1,0,HarbourFront,HarbourFront MRT,8-Oct-11,0
+0,1,Keppel,Keppel MRT,2025,0
+0,1,Cantonment,Cantonment MRT,2025,0
+0,1,Prince Edward Road,Prince Edward Road MRT,2025,0
+1,1,Bayfront,Bayfront MRT,14-Jan-12,0
+1,1,Marina Bay,Marina Bay MRT,14-Jan-12,0
+0,1,Sungei Kadut,Sungei Kadut MRT,Mid-2030s,0
+1,0,Bukit Panjang,Bukit Panjang MRT,27-Dec-15,1
+1,0,Cashew,Cashew MRT,27-Dec-15,0
+1,0,Hillview,Hillview MRT,27-Dec-15,0
+0,1,Hume,Hume MRT,2025,0
+1,0,Beauty World,Beauty World MRT,27-Dec-15,1
+1,0,King Albert Park,King Albert Park MRT,27-Dec-15,0
+1,0,Sixth Avenue,Sixth Avenue MRT,27-Dec-15,0
+1,0,Tan Kah Kee,Tan Kah Kee MRT,27-Dec-15,0
+1,0,Botanic Gardens • Kebun Bunga,Botanic Gardens MRT,27-Dec-15,0
+1,1,Stevens,Stevens MRT,27-Dec-15,0
+1,0,Newton,Newton MRT,27-Dec-15,0
+1,0,Little India,Little India MRT,27-Dec-15,0
+1,0,Rochor,Rochor MRT,27-Dec-15,0
+1,0,Bugis,Bugis MRT,22-Dec-13,0
+1,0,Promenade,Promenade MRT,22-Dec-13,0
+1,0,Bayfront,Bayfront MRT,22-Dec-13,0
+1,0,Downtown,Downtown MRT,22-Dec-13,0
+1,0,Telok Ayer,Telok Ayer MRT,22-Dec-13,0
+1,0,Chinatown,Chinatown MRT,22-Dec-13,0
+1,0,Fort Canning,Fort Canning MRT,21-Oct-17,0
+1,0,Bencoolen,Bencoolen MRT,21-Oct-17,0
+1,0,Jalan Besar,Jalan Besar MRT,21-Oct-17,0
+1,0,Bendemeer,Bendemeer MRT,21-Oct-17,0
+1,0,Geylang Bahru,Geylang Bahru MRT,21-Oct-17,0
+1,0,Mattar,Mattar MRT,21-Oct-17,0
+1,0,MacPherson,MacPherson MRT,21-Oct-17,0
+1,0,Ubi,Ubi MRT,21-Oct-17,0
+1,0,Kaki Bukit,Kaki Bukit MRT,21-Oct-17,0
+1,0,Bedok North,Bedok North MRT,21-Oct-17,0
+1,0,Bedok Reservoir,Bedok Reservoir MRT,21-Oct-17,0
+1,0,Tampines West,Tampines West MRT,21-Oct-17,0
+1,0,Tampines East,Tampines East MRT,21-Oct-17,0
+1,0,Upper Changi,Upper Changi MRT,21-Oct-17,0
+1,1,Expo,Expo MRT,21-Oct-17,0
+0,1,Xilin,Xilin MRT,2024,0
+0,1,Sungei Bedok,Sungei Bedok MRT,2024,0
+1,0,Woodlands North,Woodlands North MRT,31-Jan-17,0
+1,0,Woodlands,Woodlands MRT,31-Jan-17,0
+1,0,Woodlands South,Woodlands South MRT,31-Jan-17,0
+0,1,Springleaf,Springleaf MRT,2021,0
+0,1,Lentor,Lentor MRT,2021,0
+0,1,Mayflower,Mayflower MRT,2021,0
+0,1,Bright Hill,Bright Hill MRT,2021,0
+0,1,Upper Thomson,Upper Thomson MRT,2021,0
+1,1,Caldecott,Caldecott MRT,2021,0
+0,1,Mount Pleasant,Mount Pleasant MRT,2021,0
+1,1,Stevens,Stevens MRT,2021,0
+0,1,Napier,Napier MRT,2021,0
+0,1,Orchard Boulevard,Orchard Boulevard MRT,2021,0
+1,1,Orchard,Orchard MRT,2021,0
+0,1,Great World,Great World MRT,2021,0
+0,1,Havelock,Havelock MRT,2021,0
+1,1,Outram Park,Outram Park MRT,2021,0
+0,1,Maxwell,Maxwell MRT,2021,0
+0,1,Shenton Way,Shenton Way MRT,2021,0
+1,1,Marina Bay,Marina Bay MRT,2021,0
+0,1,Marina South,Marina South MRT,2021,0
+0,1,Gardens by the Bay • Taman di Pesisiran,Gardens by the Bay MRT,2021,0
+0,1,Founders' Memorial • Peringatan Pengasas,Founders Memorial MRT,2027,0
+0,1,Tanjong Rhu,Tanjong Rhu MRT,2023,0
+0,1,Katong Park,Katong Park MRT,2023,0
+0,1,Tanjong Katong,Tanjong Katong MRT,2023,0
+0,1,Marine Parade,Marine Parade MRT,2023,0
+0,1,Marine Terrace,Marine Terrace MRT,2023,0
+0,1,Siglap,Siglap MRT,2023,0
+0,1,Bayshore,Bayshore MRT,2023,0
+0,1,Bedok South,Bedok South MRT,2024,1
+0,1,Sungei Bedok,Sungei Bedok MRT,2024,0
+0,1,Changi Airport Terminal 5[e],Changi Airport Terminal 5 MRT,2040,1
+1,1,Changi Airport,Changi Airport MRT,2040,0
+1,1,Expo,Expo MRT,2040,0
+1,1,Tanah Merah,Tanah Merah MRT,2040,0
+1,1,Choa Chu Kang,Choa Chu Kang MRT,2026,1
+0,1,Choa Chu Kang West,Choa Chu Kang West MRT,2026,0
+0,1,Tengah,Tengah MRT,2026,0
+0,1,Hong Kah,Hong Kah MRT,2026,0
+0,1,Corporation,Corporation MRT,2026,0
+0,1,Jurong West,Jurong West MRT,2026,0
+0,1,Bahar Junction,Bahar Junction MRT,2026,0
+1,1,Boon Lay,Boon Lay MRT,2026,0
+0,1,Gek Poh,Gek Poh MRT,2026,0
+0,1,Tawas,Tawas MRT,2026,0
+0,1,Tengah Plantation,Tengah Plantation MRT,2027,0
+0,1,Tengah Park,Tengah Park MRT,2027,0
+0,1,Bukit Batok West,Bukit Batok West MRT,2027,0
+0,1,Toh Guan,Toh Guan MRT,2027,0
+1,1,Jurong East,Jurong East MRT,2027,0
+0,1,Jurong Town Hall,Jurong Town Hall MRT,2027,0
+0,1,Pandan Reservoir,Pandan Reservoir MRT,2027,0
+0,1,Enterprise,Enterprise MRT,2028,0
+0,1,Tukang,Tukang MRT,2028,0
+0,1,Jurong Hill,Jurong Hill MRT,2028,0
+0,1,Jurong Pier,Jurong Pier MRT,2028,0
+0,1,Nanyang Gateway,Nanyang Gateway MRT,2028,0
+0,1,Nanyang Crescent,Nanyang Crescent MRT,2028,0
+0,1,Peng Kang Hill,Peng Kang Hill MRT,2028,0
+0,1,Aviation Park,Aviation Park MRT,2029,0
+0,1,Loyang,Loyang MRT,2029,0
+0,1,Pasir Ris East,Pasir Ris East MRT,2029,0
+1,1,Pasir Ris,Pasir Ris MRT,2029,1
+0,1,Tampines North,Tampines North MRT,2029,1
+0,1,Defu,Defu MRT,2029,0
+1,1,Hougang,Hougang MRT,2029,1
+0,1,Serangoon North,Serangoon North MRT,2029,0
+0,1,Tavistock,Tavistock MRT,2029,0
+1,1,Ang Mo Kio,Ang Mo Kio MRT,2029,1
+0,1,Teck Ghee,Teck Ghee MRT,2029,0
+0,1,Bright Hill,Bright Hill MRT,2029,0
+0,1,Elias,Elias MRT,2031,0
+1,1,Riviera,828852,2031,0
+1,1,Punggol,Punggol MRT,2026,1

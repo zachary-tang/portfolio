@@ -1,0 +1,27 @@
+﻿bus_loc,bus_name,buses,no_of_buses
+Ang Mo Kio,Ang Mo Kio Bus Interchange,"22, 24, 25, 73, 86, 130, 133, 135, 136, 138, 166, 169, 261, 262, 265, 269",16
+Bedok,Bedok Bus Interchange,"7, 9, 14, 16, 16M, 17/17A, 18, 26, 30, 30e, 32, 33, 35/35M, 38, 40, 60, 66, 69, 87, 155, 168, 196, 197, 222, 225G, 225W, 228, 229, 401, 854, 854e",31
+Bishan ,Bishan Bus Interchange,"50, 52, 53, 54, 55, 56, 57, 58, 59, 410G, 410W",11
+Boon Lay,Boon Lay Bus Interchange,"30, 79, 154, 157, 172, 174, 174e, 178, 179, 180, 181, 181M, 187, 192, 193, 194, 198, 199, 240, 241, 242, 243G, 243W, 246, 249, 251, 252, 405",28
+Bukit Batok,Bukit Batok Bus Interchange,"61, 77, 106, 173, 177, 189, 852, 941, 944, 945, 947, 990, 991",13
+Bukit Merah,Bukit Merah Bus Interchange,"5, 16, 16M, 57, 123, 131, 131M, 132, 139, 153, 167, 176, 198, 272, 273, 851",16
+Bukit Panjang,Bukit Panjang Bus Interchange,"176, 180, 920, 922, 970, 972, 972M, 973, 975, 976, 979",11
+Choa Chu Kang,Choa Chu Kang Bus Interchange,"67, 172, 188, 188e, 188R, 190, 300, 301, 302, 307, 925, 927, 976, 983, 985, 991",16
+Clementi,Clementi Bus Interchange,"7, 14, 96, 99, 147, 156, 165, 166, 173, 175, 196, 282, 284, 285",14
+Compassvale,Compassvale Bus Interchange,"110, 374",2
+Eunos ,Eunos Interchange,"60, 61, 63, 63M, 76, 93, 94, 150, 154",9
+HarbourFront ,harbourfront centre,"65, 80, 93, 123, 123M, 124, 188, 188e, 855, 963, 963e",11
+Hougang Central,Hougang Central Bus Interchange,"27, 51, 74, 74e, 89, 89e, 102, 107, 107M, 112, 113, 116, 132, 147, 151, 151e, 153, 161, 165, 324, 325, 329",22
+Joo Koon,Joo Koon Bus Interchange,"99, 182, 182M, 253, 254, 255, 257, 258, 974",9
+Jurong East,Jurong East Bus Interchange,"41, 49, 51, 52, 66, 97, 97e, 98, 98M, 105, 143, 143M, 160, 160M, 183, 197, 333, 334, 335, 506",20
+Pasir Ris,Pasir Ris Bus Interchange,"3, 4N, 5, 6, 12, 12e, 15, 17, 21, 58, 68, 88, 354, 358, 359, 403, 518, 518A",18
+Punggol ,828865,"3, 34, 43, 43e, 43M, 50, 62, 82, 83, 84, 85, 117, 118, 119, 136, 381, 382G, 382W, 384, 386",20
+Sembawang,Sembawang Bus Interchange,"117, 167, 859, 859A, 859B, 882, 883, 883M, 980, 981",10
+Sengkang,Sengkang Bus Interchange,"80, 83, 86, 87, 156, 159, 163, 371, 372, 965",10
+Serangoon,Serangoon Bus Interchange,"100, 101, 103, 105, 109, 158, 315, 317",8
+Tampines,Tampines Bus Interchange,"3, 4, 8, 10, 19, 20, 22, 23, 28, 29, 31, 37, 38, 46, 65, 67, 68, 69, 72, 81, 127, 291, 292, 293, 969",25
+Tampines Concourse,Tampines Concourse Bus Interchange,"18, 39, 129, 298",4
+Toa Payoh,Toa Payoh Bus Interchange,"8, 26, 28, 31, 73, 88, 90, 139, 139M, 141, 142, 143, 145, 155, 157, 159, 163, 231, 232, 235, 238",21
+Woodlands,Woodlands Bus Interchange,"161, 168, 169, 178, 187, 856, 858, 900, 900A, 901, 901M, 902, 903, 903M, 904, 911, 912, 912M, 913, 913M, 925, 925M, 926, 950, 960, 960e, 961, 961M, 962, 963, 963e, 963R, 964, 965, 966, 969",36
+Yio Chu Kang,Yio Chu Kang Bus Interchange,"13, 70, 71, 70M, 72, 76, 162, 162M, 825, 860",10
+Yishun,Yishun Bus Interchange,"39, 85, 103, 171, 800, 803, 804, 805, 806, 807, 811, 812, 851, 851e, 852, 853, 853M, 854, 854e, 855, 856, 857, 859, 860, AC7",25
