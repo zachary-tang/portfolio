@@ -1,4 +1,4 @@
-# Data Analytics Projects
+# Data Analytics Portfolio
 
 A portfolio of various projects I've worked on for fun! Written in Python. 
 
