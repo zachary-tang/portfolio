@@ -5,7 +5,7 @@ A portfolio of various projects I've worked on for fun! Written in Python.
 ## Machine Learning
 
 - #### **Applied Machine Learning on Public Real Estate in Singapore**
-  - **Link:** [Github](timeseries/forecasting_household_electricity_SARIMA.ipynb) [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/Data-Analytics-Projects/blob/main/timeseries/forecasting_household_electricity_SARIMA.ipynb)
+  - **Link:** Part I Extract, Geocode & Clean ([Github](machine-learning/hdb/Part1_Extract_Geocode_Clean_HDB_Machine_Learning.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/portfolio/blob/main/machine-learning/hdb/Part1_Extract_Geocode_Clean_HDB_Machine_Learning.ipynb))
   - **Description:** Trained and compared machine learning models to predict house prices. Examined the price premium effect of geographical features
   - **Date Uploaded:** 29/01/2021
   - **Data Sources:**
