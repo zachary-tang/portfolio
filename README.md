@@ -8,6 +8,7 @@ A portfolio of various projects I've worked on for fun! Written in Python.
   - **Links:** 
     - Part I: Extract, Geocode & Clean ([Github](machine-learning/hdb/Part1_Extract_Geocode_Clean_HDB_Machine_Learning.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/portfolio/blob/main/machine-learning/hdb/Part1_Extract_Geocode_Clean_HDB_Machine_Learning.ipynb))
     - Part II: Exploratory Data Analysis ([Github](machine-learning/hdb/Part2_Exploratory_Data_Analysis_HDB_Machine_Learning.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/portfolio/blob/main/machine-learning/hdb/Part2_Exploratory_Data_Analysis_HDB_Machine_Learning.ipynb))
+    - Part III: TBC
   - **Description:** Trained and compared machine learning models to predict house prices. Examined the price premium effect of geographical features
   - **Date Uploaded:** 29/01/2021
   - **Data Sources:**
