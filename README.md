@@ -5,7 +5,7 @@ A portfolio of various projects I've worked on for fun! Written in Python.
 ## Machine Learning
 
 - #### **Applied Machine Learning on Public Real Estate in Singapore**
-  - [Full Report](machine-learning/hdb/HE1AY2021-08_Final Report.pdf))
+  - [Full Report](machine-learning/hdb/HE1AY2021-08_Final Report.pdf)
   - **Links:** 
     - Part I: Extract, Geocode & Clean ([Github](machine-learning/hdb/Part1_Extract_Geocode_Clean_HDB_Machine_Learning.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/portfolio/blob/main/machine-learning/hdb/Part1_Extract_Geocode_Clean_HDB_Machine_Learning.ipynb))
     - Part II: Exploratory Data Analysis ([Github](machine-learning/hdb/Part2_Exploratory_Data_Analysis_HDB_Machine_Learning.ipynb), [nbviewer](https://nbviewer.jupyter.org/github/zachary-tang/portfolio/blob/main/machine-learning/hdb/Part2_Exploratory_Data_Analysis_HDB_Machine_Learning.ipynb))
