@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-A portfolio of various projects I've worked on for fun! Written in Python. 
+A portfolio of various projects I've worked on.
 
 ## Machine Learning
 
